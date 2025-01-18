@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "SmartAgroApplication",
+    "slug": "SmartAgroApplication",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/smartAgroApp.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/smartAgroApp.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/smartAgroApp.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/smartAgroApp.jpg"
+    }
+  }
+}
